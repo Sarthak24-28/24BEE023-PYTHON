@@ -1,0 +1,10 @@
+a=15
+b=5
+#add
+print(a+b)
+#subtract
+print(a-b)
+#multiply
+print(a*b)
+#divide
+print(a/b)
